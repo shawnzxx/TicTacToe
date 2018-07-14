@@ -1,0 +1,4 @@
+*.suo
+Source/TicTacToe/bin/
+Source/TicTacToe/obj/Debug/
+Source/TicTacToe/Properties/AssemblyInfo.cs
